@@ -6,15 +6,19 @@ Sou Camila Ferreira, tenho 25 anos e sou estudante de Sistemas de Informação n
 <br>
 
 ## Habilidades
-- Front - End com HTML, CSS, JS 
-- UI/UX Design
+- Front - End com HTML, CSS, JS (em desenvolvimento)
+- UI/UX Design (em desenvolvimento)
 - Design
 - Empreendedorismo e Inovação
 
 
 ## Ferramentas
-<code><img height="30" src="https://github.com/Gictorbit/photoshopCClinux/blob/master/images/AdobePhotoshop-icon.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"></code>
+
+- Visual Studio Code
+- Illustrator
+- Photoshop
+- Figma
+- WordPress
 
 
 ##  Contate
