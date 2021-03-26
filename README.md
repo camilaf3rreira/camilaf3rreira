@@ -24,7 +24,6 @@ Sou Camila Ferreira, tenho 25 anos e sou estudante de Sistemas de Informação n
 ##  Contate
 - <a href="https://www.linkedin.com/in/camilaf3rreira">Linkedin</a>
 - <a href="camilas.ferreira@hotmail.com">E-mail</a>
-- <a href="https://www.instagram.com/camilaf3rreira/">Instagram Pessoal</a>
 - <a href="https://www.instagram.com/soutechgirl/">Instagram Profissional</a>
 </div>
 
