@@ -7,7 +7,7 @@ Sou Camila Ferreira, tenho 25 anos e sou estudante de Sistemas de Informação n
 
 ## Habilidades
 - Front - End com HTML, CSS, JS 
-- UI Design
+- UI/UX Design
 - Design
 - Empreendedorismo e Inovação
 
