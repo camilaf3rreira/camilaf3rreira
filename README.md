@@ -2,7 +2,7 @@
 
 # <a href="https://www.linkedin.com/in/camilaf3rreira"> Hi, I'm Camila Ferreira</a>
  ## Sobre mim
-Sou Camila Ferreira, tenho 25 anos e sou estudante de Sistemas de Informação na Universidade Federal dos Vales dos Jequitinhonha e Mucuri - UFVJM . Atualmente, busco me dedicar à carreira de inovação, UI design e desenvolvimento no front-end.
+Sou Camila Ferreira, tenho 25 anos e sou estudante de Sistemas de Informação na Universidade Federal dos Vales dos Jequitinhonha e Mucuri - UFVJM . Atualmente, busco me dedicar à carreira de inovação, UI/UX design e desenvolvimento no front-end.
 <br>
 
 ## Habilidades
