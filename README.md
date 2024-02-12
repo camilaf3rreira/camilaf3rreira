@@ -1,36 +1,22 @@
-# Olá, eu sou Camila de Souza Ferreira! 👋
+## Olá! Sou a Camila e bem vindo(a) ao meu Github 🤓
 
-Sou uma analista de desenvolvimento de sistemas apaixonada por transformação digital e abordagens colaborativas. Atualmente, estou buscando oportunidades como Desenvolvedora FullStack - Angular/.Net ou Desenvolvedora Front-end - Angular.
+<div>
+  <a href="https://www.instagram.com/soutechgirl" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="mailto: ferreira.camila@ufvjm.edu.br"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=Gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/camilaf3rreira/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="Linkedin" /></a>
+</div>
 
-## 🎓 Educação
+##
 
-- Sistemas de Informação (2017-2022) na Universidade Federal dos Vales do Jequitinhonha e Mucuri, Diamantina, Brasil.
+<ul>
+  <li>💻 Desenvolvedora Front End desde 2021</li>
+  <li>🎓 Formada em Sistemas de Informação pela UFVJM</li>
+  <li>📱 Compartilho conteúdos de desenvolvimento e agilidade na <a href="https://www.instagram.com/soutechgirl">@soutechgirl</a></li>
+</ul>
 
-## 💼 Experiência Profissional
+ ##
 
-- **Analista de Desenvolvimento de Sistemas**, DTI Digital (Março 2022 - Presente)
-- **Agile Master**, DTI Digital (2023)
-- **Lead Developer**, DTI Digital (2023)
-- **Estagiária em Desenvolvimento de Software**, DTI Digital (2021-2022)
-- **Estagiária em UX/UI Designer**, Minas Vale Tecnologia (2021)
-
-## 🛠️ Habilidades
-
-- Desenvolvimento front end com Angular (TypeScript, HTML5, SASS, Angular Material e Angular +7)
-- Integrações com APIs Restful
-- Manutenção de aplicações com .NET (C#)
-- Desenvolvimento mobile com Ionic
-- Construção de roteiro de testes, validação em dupla, desenvolvimento de testes automatizados (Jasmine e Karma), code review e versionamento
-- Gerenciamento de pipeline e releases
-- Serviços em nuvem com Microsoft Azure
-- Consultas com SQL Server
-
-## 📫 Contato
-
-- Telefone: +55 (38)9 9934-3614
-- E-mail: ferreira.camila@ufvjm.edu.br
-- [Portfólio](https://camilaf3rreira.github.io/vcard-personal-portfolio)
-
-## 📍 Localização
-
-- Diamantina - MG
+<div>
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabevaz&show_icons=true&theme=radical&count_private=true"/> -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilaf3rreira&layout=compact&langs_count=8&theme=radical"/>
+</div>
